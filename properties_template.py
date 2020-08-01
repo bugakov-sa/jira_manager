@@ -1,0 +1,5 @@
+jira_host = 'your jira host'
+jira_project = 'project code'
+jira_task_number = 'task number'
+jira_user = 'your username'
+jira_password = 'your password'
